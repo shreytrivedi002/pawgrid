@@ -1,0 +1,15 @@
+{
+  "version": "0.6.0+9",
+  "audioAssetBytes": 152500,
+  "artifacts": {
+    "dist/Pawgrid-android-arm64.apk": {
+      "bytes": 21077095,
+      "sha256": "dd6c7078e84c07172fedc808faabf96f0754cb077093e3e2ec3db51a3d1b28b0"
+    },
+    "dist/Pawgrid-android.aab": {
+      "bytes": 57558395,
+      "sha256": "d63fe15fafcac4ee409ef7f324b1eb68df1f7d7aa98b17ba8da1c817bd69e967"
+    }
+  },
+  "storeDeliveredDownloadBytes": null
+}

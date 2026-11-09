@@ -1,0 +1,55 @@
+Resolving dependencies...
+Downloading packages...
+  built_collection 5.1.2 (6.0.0 available)
+  code_assets 1.2.1 (2.2.0 available)
+  hooks 2.0.2 (2.2.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  native_toolchain_c 0.19.2 (0.19.6 available)
+  objective_c 9.5.0 (9.6.3 available)
+  record_use 0.6.0 (1.1.1 available)
+  sqlite3 3.5.2 (3.9.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  vector_math 2.4.0 (2.4.4 available)
+Got dependencies!
+11 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Running Gradle task 'assembleDebug'...                              8.9s
+✓ Built build/app/outputs/flutter-apk/app-debug.apk
+Installing build/app/outputs/flutter-apk/app-debug.apk...          500ms
+D/FlutterJNI( 8304): Sending viewport metrics to the engine.
+VMServiceFlutterDriver: Connecting to Flutter application at http://127.0.0.1:54041/Pqg40Lv4L8I=/
+VMServiceFlutterDriver: Isolate found with number: 1513161238212367
+VMServiceFlutterDriver: Isolate 1513161238212367 is runnable.
+VMServiceFlutterDriver: Isolate is paused at start.
+VMServiceFlutterDriver: Attempting to resume isolate
+I/flutter ( 8304): 00:00 +0: GPU board, header, artwork and completion visual review
+VMServiceFlutterDriver: Connected to Flutter application.
+D/EGL_emulation( 8304): app_time_stats: avg=526.66ms min=315.36ms max=708.83ms count=3
+W/WindowOnBackDispatcher( 8304): OnBackInvokedCallback is not enabled for the application.
+W/WindowOnBackDispatcher( 8304): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+D/ProfileInstaller( 8304): Installing profile for com.pawgrid.pawgrid.tutorialtest
+D/EGL_emulation( 8304): app_time_stats: avg=269.02ms min=130.62ms max=454.82ms count=4
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796ae84b48 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796aea63c8 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): evictor expired: 2, evicted: 2
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796ae95098 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796ae92948 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796aeb07f8 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796ae87738 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796ae84208 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 2/4 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): bufferpool2 0xb40000796ae87988 : 0(0 size) total buffers - 0(0 size) used buffers - 0/5 (recycle/alloc) - 1/2 (fetch/transfer)
+D/BufferPoolAccessor2.0( 8304): evictor expired: 6, evicted: 6
+D/EGL_emulation( 8304): app_time_stats: avg=161.30ms min=8.60ms max=604.68ms count=9
+VMServiceFlutterDriver: request_data message is taking a long time to complete...
+D/EGL_emulation( 8304): app_time_stats: avg=200.80ms min=32.81ms max=611.55ms count=5
+D/EGL_emulation( 8304): app_time_stats: avg=89.74ms min=13.34ms max=128.61ms count=12
+D/EGL_emulation( 8304): app_time_stats: avg=2360.34ms min=137.39ms max=4341.21ms count=3
+D/EGL_emulation( 8304): app_time_stats: avg=135.52ms min=108.08ms max=269.62ms count=8
+D/EGL_emulation( 8304): app_time_stats: avg=113.65ms min=10.20ms max=306.96ms count=9
+D/EGL_emulation( 8304): app_time_stats: avg=961.25ms min=950.66ms max=971.84ms count=2
+D/EGL_emulation( 8304): app_time_stats: avg=85.46ms min=9.47ms max=284.44ms count=13
+I/flutter ( 8304): 00:10 +1: (tearDownAll)
+I/flutter ( 8304): 00:10 +2: All tests passed!
+D/EGL_emulation( 8304): app_time_stats: avg=647.20ms min=325.88ms max=968.52ms count=2
+All tests passed.

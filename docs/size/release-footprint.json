@@ -1,0 +1,38 @@
+{
+  "apkBytes": 20461486,
+  "apkDecimalMB": 20.46,
+  "nativeLibraries": [
+    {
+      "name": "lib/arm64-v8a/libapp.so",
+      "rawBytes": 5637000,
+      "compressedBytes": 5637000
+    },
+    {
+      "name": "lib/arm64-v8a/libdartjni.so",
+      "rawBytes": 131432,
+      "compressedBytes": 131432
+    },
+    {
+      "name": "lib/arm64-v8a/libflutter.so",
+      "rawBytes": 11747864,
+      "compressedBytes": 11747864
+    },
+    {
+      "name": "lib/arm64-v8a/libsqlite3.so",
+      "rawBytes": 1732360,
+      "compressedBytes": 1732360
+    },
+    {
+      "name": "lib/armeabi-v7a/libdartjni.so",
+      "rawBytes": 81628,
+      "compressedBytes": 81628
+    },
+    {
+      "name": "lib/x86_64/libdartjni.so",
+      "rawBytes": 116824,
+      "compressedBytes": 116824
+    }
+  ],
+  "fontBytes": 799152,
+  "catalogCompressedBytes": 159059
+}

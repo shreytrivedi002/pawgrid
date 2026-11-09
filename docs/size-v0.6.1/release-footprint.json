@@ -1,0 +1,16 @@
+{
+  "version": "0.6.1+10",
+  "artifacts": {
+    "dist/Pawgrid-android-arm64.apk": {
+      "bytes": 21077095,
+      "deltaFrom0.6.0": 0,
+      "sha256": "4fc9791eba9f298171b7a62b937dd34746561f8174e0faf1022a7a4b2f268f23"
+    },
+    "dist/Pawgrid-android.aab": {
+      "bytes": 57579545,
+      "deltaFrom0.6.0": 21150,
+      "sha256": "f58c60c2b0d78a78a632ba06406eaeafbc9ca2bc04b92c4316b37b330313d6ce"
+    }
+  },
+  "storeDeliveredDownloadBytes": null
+}

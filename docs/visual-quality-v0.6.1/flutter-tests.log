@@ -1,0 +1,62 @@
+Resolving dependencies...
+Downloading packages...
+  built_collection 5.1.2 (6.0.0 available)
+  code_assets 1.2.1 (2.2.0 available)
+  hooks 2.0.2 (2.2.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  native_toolchain_c 0.19.2 (0.19.6 available)
+  objective_c 9.5.0 (9.6.3 available)
+  record_use 0.6.0 (1.1.1 available)
+  sqlite3 3.5.2 (3.9.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  vector_math 2.4.0 (2.4.4 available)
+Got dependencies!
+11 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/repository_test.dart
+00:00 +0: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/repository_test.dart: move, undo, contradictory save and history restore exactly
+00:00 +1: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +2: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +3: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +4: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +5: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +6: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +7: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +8: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:00 +9: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:01 +10: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:01 +11: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:01 +12: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: tap toggles cross; long press places/removes without an extra cross
+00:01 +13: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/widget_test.dart: first launch supports hold placement, tap crosses and undo
+00:01 +14: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/widget_test.dart: first launch supports hold placement, tap crosses and undo
+00:02 +15: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/widget_test.dart: first launch supports hold placement, tap crosses and undo
+00:02 +16: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/widget_test.dart: first launch supports hold placement, tap crosses and undo
+00:02 +17: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/widget_test.dart: first launch supports hold placement, tap crosses and undo
+00:02 +18: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/widget_test.dart: first launch supports hold placement, tap crosses and undo
+00:02 +19: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +20: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +21: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +22: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +23: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +24: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +25: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +26: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +27: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +28: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:02 +29: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:03 +30: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:03 +31: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:03 +32: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text false
+00:03 +33: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: hold accepts a non-answer tile and Undo allows rethinking
+00:04 +34: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text true
+00:04 +35: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text true
+00:05 +36: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text true
+00:05 +37: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/first_garden_test.dart: first garden walkthrough and resume, large text true
+00:06 +38: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: touching conflict stays placed, indicated, saved and undoable
+00:06 +39: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: touching conflict stays placed, indicated, saved and undoable
+00:06 +40: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: queued rapid taps are preserved while earlier SQLite saves finish
+00:06 +41: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: keyboard placement and clearing work without holding
+00:07 +42: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: screen-reader Actions can place a creature without a timed gesture
+00:07 +43: /Users/shreytrivedi/Desktop/project/game/pawgrid/app/test/gesture_test.dart: winning hold can dispose the board safely before finger release
+00:07 +44: All tests passed!

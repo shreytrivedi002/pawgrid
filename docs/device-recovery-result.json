@@ -1,0 +1,12 @@
+{
+  "result": "PASS",
+  "moves": 46,
+  "undoCount": 1,
+  "historyEntries": 45,
+  "balance": 0,
+  "checks": [
+    "actual Android force-stop",
+    "airplane-mode cold launch",
+    "exact SQLite marks/history/counters/hash and seed balance retained"
+  ]
+}

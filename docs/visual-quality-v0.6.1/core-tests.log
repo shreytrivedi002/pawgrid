@@ -1,0 +1,24 @@
+00:00 +0: loading test/stroke_test.dart
+00:00 +0: test/stroke_test.dart: one paint stroke is one undo and survives serialization
+00:00 +1: test/stroke_test.dart: one paint stroke is one undo and survives serialization
+00:00 +2: test/stroke_test.dart: one paint stroke is one undo and survives serialization
+00:00 +3: test/placement_test.dart: row, column and touching conflicts remain placed with detectable warnings
+00:00 +4: test/placement_test.dart: row, column and touching conflicts remain placed with detectable warnings
+00:00 +5: test/stroke_test.dart: legacy v1 saves retain every mark, counter and single-cell undo
+00:00 +6: test/stroke_test.dart: legacy v1 saves retain every mark, counter and single-cell undo
+00:00 +7: test/placement_test.dart: all 298 boards precheck only garden capacity and still solve
+00:00 +8: test/placement_test.dart: all 298 boards precheck only garden capacity and still solve
+00:00 +9: test/placement_test.dart: all 298 boards precheck only garden capacity and still solve
+00:00 +10: test/placement_test.dart: all 298 boards precheck only garden capacity and still solve
+00:00 +11: test/placement_test.dart: all 298 boards precheck only garden capacity and still solve
+00:00 +12: test/stroke_test.dart: 10,000 randomized paint/erase commands restore exactly with one undo
+00:00 +13: test/stroke_test.dart: 10,000 randomized paint/erase commands restore exactly with one undo
+00:00 +14: test/stroke_test.dart: 10,000 randomized paint/erase commands restore exactly with one undo
+00:00 +15: test/puzzle_core_test.dart: all 298 definitions independently solved and every human deduction proven
+00:00 +16: test/puzzle_core_test.dart: contradictory marks produce no hint; tentative marks are preserved
+00:00 +17: test/puzzle_core_test.dart: 100,000 randomized immutable session commands, undo and save/load
+00:01 +18: test/puzzle_core_test.dart: fixed clues resist user commands and altered saves
+00:01 +19: test/puzzle_core_test.dart: token replacement and undo restore exact previous mark
+00:01 +20: test/puzzle_core_test.dart: exhaustive solution enumeration matches 72 independent Python vectors 4x4–9x9
+00:01 +21: test/puzzle_core_test.dart: eight rotations/reflections preserve fixture rules, connectivity and uniqueness
+00:01 +22: All tests passed!

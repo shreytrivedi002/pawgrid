@@ -1,0 +1,15 @@
+#!/bin/sh
+set -eu
+PAWGRID_ROOT=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+if [ -n "${FLUTTER_SDK:-}" ]; then
+  PAWGRID_FLUTTER="$FLUTTER_SDK/bin/flutter"
+elif command -v flutter >/dev/null 2>&1; then
+  PAWGRID_FLUTTER=$(command -v flutter)
+elif [ -x /tmp/pawgrid-tools/flutter/bin/flutter ]; then
+  PAWGRID_FLUTTER=/tmp/pawgrid-tools/flutter/bin/flutter
+else
+  echo 'Install Flutter 3.47.5 or set FLUTTER_SDK to the SDK folder.' >&2
+  exit 1
+fi
+cd "$PAWGRID_ROOT/app"
+exec "$PAWGRID_FLUTTER" "$@"

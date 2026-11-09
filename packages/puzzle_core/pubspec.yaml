@@ -1,0 +1,10 @@
+name: puzzle_core
+description: Deterministic, immutable Pawgrid puzzle rules and sessions.
+version: 1.0.0
+publish_to: none
+environment:
+  sdk: '>=3.9.0 <4.0.0'
+dependencies:
+  crypto: ^3.0.6
+dev_dependencies:
+  test: ^1.25.8
